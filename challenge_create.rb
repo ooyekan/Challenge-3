@@ -41,7 +41,7 @@ garri = Product.create( name:  "Cassava Flakes",
                     description: "Made from cassava root",
                     price: 12.99,
                     stock_quantity: 30,
-                    category_id: 1 )
+                    category_id: 4 )
 
 puts garri.inspect
 
